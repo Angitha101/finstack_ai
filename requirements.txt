@@ -1,0 +1,6 @@
+SQLAlchemy
+pandas
+psycopg2
+langchain 
+dateutil 
+openai
